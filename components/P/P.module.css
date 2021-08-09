@@ -1,0 +1,17 @@
+.p {
+  margin: 0;
+  color: var(--black);
+  font-weight: 400;
+}
+.p_Ssize {
+  font-size: 14px;
+  line-height: 24px;
+}
+.p_Msize {
+  font-size: 16px;
+  line-height: 24px;
+}
+.p_Lsize {
+  font-size: 18px;
+  line-height: 29px;  
+}
